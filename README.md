@@ -1,83 +1,83 @@
-Hi, I’m Piyush Kumar
+# Hi, I’m Piyush Kumar
 
-Aspiring Data Scientist
+**Aspiring Data Scientist**
 
-I’m a BCA student at KCC Institute of Technology & Management, currently focused on building practical skills in Data Science.
+**I’m a BCA student at KCC Institute of Technology & Management, currently focused on building practical skills in Data Science.**
 
 I like working with data, understanding patterns, and turning raw information into something useful. Instead of just learning concepts, I prefer applying them through projects where I can see how things work in real scenarios.
 
 I have worked on projects like an AI-powered ATS Resume Screening System and Real Estate Price Prediction, where I handled data preprocessing, model building, and basic deployment using Python and related tools. I’m continuously improving my skills by building, breaking, and rebuilding projects.
 
-  I’m Looking For
+##  I’m Looking For
 
-Entry-level / Intern roles in Data Science, Machine Learning, or Data Analytics
+**Entry-level / Intern roles in Data Science, Machine Learning, or Data Analytics**
 
-Opportunities where I can learn, contribute, and grow with real data and real problems
+**Opportunities where I can learn, contribute, and grow with real data and real problems**
 
-🛠️ Technical Skills
+###🛠️ Technical Skills
 
-Programming & Data
+**Programming & Data**
 
-Python
+**Python**
 
-Pandas, NumPy
+**Pandas, NumPy**
 
-Statistics
+**Statistics**
 
-SQL (MySQL)
+**SQL (MySQL)**
 
-Visualization & Analysis
+**Visualization & Analysis**
 
-Matplotlib, Seaborn
+**Matplotlib, Seaborn**
 
-Excel
+**Excel**
 
-Power BI
+**Power BI**
 
-Machine Learning
+**Machine Learning**
 
-Scikit-learn
+**Scikit-learn**
 
-Data preprocessing
+**Data preprocessing**
 
-Model training & evaluation
+***Model training & evaluation***
 
-NLP (basic text processing, TF-IDF)
+**NLP (basic text processing, TF-IDF)**
 
-Backend & Tools
+**Backend & Tools**
 
-Flask (basic APIs)
+**Flask (basic APIs)**
 
-Jupyter Notebook
+***Jupyter Notebook***
 
-Git & GitHub
+###Git & GitHub
 
-🚀 Featured Projects
+***🚀 Featured Projects***
 
 ATS Resume Screening System
 Python | NLP | TF-IDF | Flask | MySQL
 Built a system to rank resumes based on job descriptions using text similarity techniques. The goal was to automate the initial resume screening process and reduce manual effort.
-🔗 GitHub: https://github.com/piyushh-18/ATS-Resume-Screening-System
+####🔗 GitHub: https://github.com/piyushh-18/ATS-Resume-Screening-System
 
 Real Estate Price Prediction
 Python | Machine Learning | EDA
 Worked on predicting property prices using historical data, feature engineering, and regression models to understand pricing patterns.
-🔗 GitHub: https://github.com/piyushh-18/real-estate-intelligence-system
+####🔗 GitHub: https://github.com/piyushh-18/real-estate-intelligence-system
 
 I regularly update my projects as I learn new concepts and improve existing implementations.
 
-💬 Soft Skills
+**💬 Soft Skills**
 
-Clear communication of technical concepts
+**Clear communication of technical concepts**
 
-Problem-solving mindset
+**Problem-solving mindset**
 
-Curious and consistent learner
+**Curious and consistent learner**
 
-Comfortable explaining projects and logic
+**Comfortable explaining projects and logic**
 
-📫 Connect With Me
+##📫 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/piyush-kumar-0533b139b
+###LinkedIn: https://www.linkedin.com/in/piyush-kumar-0533b139b
 
-Email: piyushhkumar18@gmail.com
+###Email: piyushhkumar18@gmail.com
