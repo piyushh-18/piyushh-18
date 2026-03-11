@@ -50,19 +50,19 @@ I have worked on projects like an AI-powered ATS Resume Screening System and Rea
 
 ***Jupyter Notebook***
 
-###Git & GitHub
+#Git & GitHub
 
 ***🚀 Featured Projects***
 
 ATS Resume Screening System
 Python | NLP | TF-IDF | Flask | MySQL
 Built a system to rank resumes based on job descriptions using text similarity techniques. The goal was to automate the initial resume screening process and reduce manual effort.
-####🔗 GitHub: https://github.com/piyushh-18/ATS-Resume-Screening-System
+**🔗 GitHub: https://github.com/piyushh-18/ATS-Resume-Screening-System**
 
 Real Estate Price Prediction
 Python | Machine Learning | EDA
 Worked on predicting property prices using historical data, feature engineering, and regression models to understand pricing patterns.
-####🔗 GitHub: https://github.com/piyushh-18/real-estate-intelligence-system
+**🔗 GitHub: https://github.com/piyushh-18/real-estate-intelligence-system**
 
 I regularly update my projects as I learn new concepts and improve existing implementations.
 
@@ -76,8 +76,8 @@ I regularly update my projects as I learn new concepts and improve existing impl
 
 **Comfortable explaining projects and logic**
 
-##📫 Connect With Me
+**📫 Connect With Me**
 
-###LinkedIn: https://www.linkedin.com/in/piyush-kumar-0533b139b
+**LinkedIn: https://www.linkedin.com/in/piyush-kumar-0533b139b**
 
-###Email: piyushhkumar18@gmail.com
+**Email: piyushhkumar18@gmail.com**
